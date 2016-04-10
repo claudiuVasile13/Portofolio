@@ -57,7 +57,7 @@ html, body {
 
 #about-image {
   height: 600px;
-  background-image: url('https://w-dog.net/wallpapers/14/7/471666002396653/planet-earth-destruction-humanity.jpg');
+  background-image: url('../img/earth.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -133,7 +133,7 @@ html, body {
   padding: 0;
   min-height: 500px;
   height: auto;
-  background-image: url('http://s24.postimg.org/wjdkfvexx/comics.jpg');
+  background-image: url('../img/hobbies.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
