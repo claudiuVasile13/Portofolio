@@ -258,5 +258,6 @@ html, body {
   
   .testimonial {
     margin-top: 10px;
+    min-height: 100px;
   }
 }
