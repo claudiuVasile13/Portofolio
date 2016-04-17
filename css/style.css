@@ -101,7 +101,7 @@ html, body {
 
 .testimonial {
 /*   border: 1px solid red; */
-  max-height: 300px;
+  min-height: 300px;
   height: auto;
   text-align: center;
   padding-top: 10px;
